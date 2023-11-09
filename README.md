@@ -24,7 +24,7 @@ npm run dev
 The dashboard is configured to use a local database.
 
 ## Time Series Chart: Number of Visitors per Day
-![visitors](https://github.com/ambesh333/waterDrip/src/assets/1st.png)
+![visitors](https://github.com/ambesh333/waterDrip/blob/main/src/assets/1st.png)
 This chart displays the number of visitors per day over a specified time period.
 
 ## Column Chart: Number of Visitors per Country
